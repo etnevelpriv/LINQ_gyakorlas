@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ_gyakorlas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c98abfb829002ff8aa893431a32f35e4f8509e9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da572e7701a7560c5ae2738229c822d1ec0d8b66")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ_gyakorlas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ_gyakorlas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
