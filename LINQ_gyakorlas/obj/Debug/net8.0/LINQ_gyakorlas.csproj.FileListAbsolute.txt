@@ -1,0 +1,15 @@
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/bin/Debug/net8.0/LINQ_gyakorlas
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/bin/Debug/net8.0/LINQ_gyakorlas.deps.json
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/bin/Debug/net8.0/LINQ_gyakorlas.runtimeconfig.json
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/bin/Debug/net8.0/LINQ_gyakorlas.dll
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/bin/Debug/net8.0/LINQ_gyakorlas.pdb
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.AssemblyInfoInputs.cache
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.AssemblyInfo.cs
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.csproj.CoreCompileInputs.cache
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.sourcelink.json
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.dll
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/refint/LINQ_gyakorlas.dll
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.pdb
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/LINQ_gyakorlas.genruntimeconfig.cache
+/home/etnevel/Suli/Desktop_App/LINQ_gyakorlas/LINQ_gyakorlas/obj/Debug/net8.0/ref/LINQ_gyakorlas.dll
